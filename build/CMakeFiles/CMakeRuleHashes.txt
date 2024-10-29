@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+c699895e8ba0fc3ed67f9db3321eb542 /home/rodolfo/ros_open_cv_ws/devel/include/ros_opencv/Pose.h
+dc08df0aee325d24f59bdd1022d0d4b8 /home/rodolfo/ros_open_cv_ws/devel/lib/python3/dist-packages/ros_opencv/msg/_Pose.py
+da3cd1f9c01538c1d2d27ba771a9dcf1 /home/rodolfo/ros_open_cv_ws/devel/lib/python3/dist-packages/ros_opencv/msg/__init__.py
+6cfa5eba0708d2b5960c982ec114762a /home/rodolfo/ros_open_cv_ws/devel/share/common-lisp/ros/ros_opencv/msg/Pose.lisp
+6d753858c67f56d02b45cfbd3ee0ce8a /home/rodolfo/ros_open_cv_ws/devel/share/gennodejs/ros/ros_opencv/msg/Pose.js
+f7f147e0db367de2e44bdd5f6f18b5dd /home/rodolfo/ros_open_cv_ws/devel/share/roseus/ros/ros_opencv/manifest.l
+a7389412d9e47cbb160ca43d6d3e6809 /home/rodolfo/ros_open_cv_ws/devel/share/roseus/ros/ros_opencv/msg/Pose.l
+c800b603dc7ec6a56a9fbd6010cfaae0 CMakeFiles/clean_test_results
+d0f5d03932c55a95775de8dab5c64731 ros_opencv/CMakeFiles/_ros_opencv_generate_messages_check_deps_Pose
+720362a079eb91f2e0e9c337dc9d7d0b ros_opencv/CMakeFiles/ros_opencv_generate_messages_cpp
+720362a079eb91f2e0e9c337dc9d7d0b ros_opencv/CMakeFiles/ros_opencv_generate_messages_eus
+720362a079eb91f2e0e9c337dc9d7d0b ros_opencv/CMakeFiles/ros_opencv_generate_messages_lisp
+720362a079eb91f2e0e9c337dc9d7d0b ros_opencv/CMakeFiles/ros_opencv_generate_messages_nodejs
+720362a079eb91f2e0e9c337dc9d7d0b ros_opencv/CMakeFiles/ros_opencv_generate_messages_py
